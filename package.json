@@ -1,0 +1,11 @@
+{
+  "name": "@tochiji/github-package-registry-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tochiji/github-package-registry-test.git",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "author": "tochiji <7910558+tochiji@users.noreply.github.com>",
+  "license": "MIT"
+}
