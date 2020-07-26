@@ -1,11 +1,14 @@
 {
   "name": "@tochiji/github-package-registry-test",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "https://github.com/tochiji/github-package-registry-test.git",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "tochiji <7910558+tochiji@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@tochiji/package-json-no-name-dake-wo-kaete-mimashita": "^1.0.0"
+  }
 }
