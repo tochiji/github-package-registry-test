@@ -7,8 +7,5 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "author": "tochiji <7910558+tochiji@users.noreply.github.com>",
-  "license": "MIT",
-  "dependencies": {
-    "@tochiji/package-json-no-name-dake-wo-kaete-mimashita": "^1.0.0"
-  }
+  "license": "MIT"
 }
