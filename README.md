@@ -1,4 +1,6 @@
 # github-package-registry-test
+![Node.js Package](https://github.com/tochiji/github-package-registry-test/workflows/Node.js%20Package/badge.svg)  
+
 Github Packageにアップロードするテストしていきます
 
 ## パッケージアップロード手順
